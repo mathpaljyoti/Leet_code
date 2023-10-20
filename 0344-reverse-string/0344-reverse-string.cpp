@@ -7,5 +7,6 @@ public:
             temp.push_back(s[i]);
         }
         s=temp;
+        
     }
 };
